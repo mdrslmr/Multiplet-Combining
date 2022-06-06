@@ -7,7 +7,8 @@ Stability   :  experimental
 
 This module contains operators and functions for
 combining SU(n) multiplets according to the
-algorithm presented by C.G. Wohl in the PDG book 2021 section 48.
+algorithm presented by C.G. Wohl in the PDG book 2021 section 48
+<https://pdg.lbl.gov/2022/reviews/rpp2022-rev-su3-isoscalar-factors.pdf>.
 
 It provides the operators '(><)' and '(>><)' for combining multiplets,
 and the function 'multi' and 'multis' to calculate the multiplicities, e.g.:

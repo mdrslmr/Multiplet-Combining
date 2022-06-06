@@ -3,7 +3,8 @@
     ===================
 
 A Haskell implementation for combining SU(n) multiplets according
-to the algorithm described in the particle data book (2021) section 48.
+to the algorithm described in the particle data book (2021) section 48,
+see https://pdg.lbl.gov/2022/reviews/rpp2022-rev-su3-isoscalar-factors.pdf
 
 See LICENSE.
 
